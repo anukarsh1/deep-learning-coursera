@@ -23,3 +23,6 @@ Course1: Neural Networks and Deep Learning
 * [Week 2 Quiz - Neural Network Basics](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Week%202%20Quiz%20-%20Neural%20Network%20Basics.md)
 * [Week 3 Quiz - Shallow Neural Networks](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Week%203%20Quiz%20-%20Shallow%20Neural%20Networks.md)
 * [Week 4 Quiz - Key Concepts On Deep Neural Networks](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Week%204%20Quiz%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.md)
+
+### A short Note ###
+I am currently doing the second course of the specialization.I would add the code base and quiz answers for the same as soon as I am finished with it.Also keep in mind, these assignment and quiz solutions are **only for your reference**. Use these as a reference only when you are stuck for a long time.The assignments and quizzes are relatively easy if you can grasp the material well. If you copy/paste the assignments , it would be deemed as cheating, and that is a voilation of [Coursera's Honor Code](https://www.coursera.org/about/terms/honorcode). You wouldn't want to do that! :)
