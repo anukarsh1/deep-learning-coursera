@@ -26,4 +26,5 @@ Course1: Neural Networks and Deep Learning
 
 ### A short Note:- ###
 I am currently doing the second course of the specialization.I would add the code base and quiz answers for the same as soon as I am finished with it.Also keep in mind, these assignment and quiz solutions are **only for your reference**. Use these as a reference only when you are stuck for a long time.The assignments and quizzes are relatively easy if you can grasp the material well. If you copy/paste the assignments , it would be deemed as cheating, and that is a voilation of [Coursera's Honor Code](https://www.coursera.org/about/terms/honorcode). You wouldn't want to do that!
+
 All the best and happy learning. :)
