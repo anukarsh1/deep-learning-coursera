@@ -16,6 +16,14 @@ Course 1: Neural Networks and Deep Learning
 * [Week4 - PA 3 -  Building Your Deep Neural Network Step By Step](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Building%20Your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
 * [Week4 - PA4 - Deep Neural Network For Image Classification](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
+
+Course 2: Improving Deep Neural Networks: Hyperparameter Tuning , Regularization and Optimization
+*[ Week 1 - PA 1 - Initialization](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Initialization.ipynb)
+*[Week 1 - PA 2 - Regularization](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Regularization.ipynb)
+*[Week 1 - PA3 - Gradient Checking](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
+*[Week 2 - PA4 - Optimization Methods](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Optimization%20Methods.ipynb)
+*[Week 3 - PA5 - Tensorflow Tutorial](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb) 
+
 ## Quiz Solutions ##
 
 Course 1: Neural Networks and Deep Learning
