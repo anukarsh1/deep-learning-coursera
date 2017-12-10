@@ -32,6 +32,11 @@ Course 1: Neural Networks and Deep Learning
 * [Week 3 Quiz - Shallow Neural Networks](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Week%203%20Quiz%20-%20Shallow%20Neural%20Networks.md)
 * [Week 4 Quiz - Key Concepts On Deep Neural Networks](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Neural%20Networks%20And%20Deep%20Learning/Week%204%20Quiz%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.md)
 
+Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+* [Week 1 Quiz - Practical Aspects of Deep Learning](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Week%201%20Quiz%20-%20Practical%20Aspects%20Of%20Deep%20Learning.md)
+* [Week 2 Quiz - Optimization Algorithms](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Week%202%20Quiz%20-%20Optimization%20Algorithms.md)
+* [Week 3 Quiz - Hyperparameter Tuning ,Batch Normalization , Programming Frameworks](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Week%203%20Quiz%20-%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.md)
+
 ### A short Note:- ###
 I am currently doing the second course of the specialization. I would add the code base and quiz answers for the same as soon as I am finished with it. Please keep in mind that these assignment and quiz solutions are **only for your reference**. Use these  when you get stuck for a long time. The assignments and quizzes are relatively easy if you can grasp the material well.  If you copy/paste the assignments , it would be deemed as cheating, and that is a voilation of [Coursera's Honor Code](https://www.coursera.org/about/terms/honorcode). You wouldn't want to do that!
 
