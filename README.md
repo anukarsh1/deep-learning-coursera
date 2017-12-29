@@ -23,7 +23,11 @@ Course 2: Improving Deep Neural Networks: Hyperparameter Tuning , Regularization
 * [Week 1 - PA3 - Gradient Checking](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
 * [Week 2 - PA4 - Optimization Methods](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Optimization%20Methods.ipynb)
 * [Week 3 - PA5 - Tensorflow Tutorial](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20networks-%20Hyperparameter%20Tuning%20-%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb) 
-Course 3: There are no programming assignments in this course. 
+
+
+Course 3: Structuring Machine Learning Projects
+
+- There are no programming assignments in this course. 
 
 ## Quiz Solutions ##
 
