@@ -58,7 +58,8 @@ Test - 98% , Accuracy - 9 sec	,Runtime	Memory size - 9MB ---> Correct
 4. Structuring your data
 
 Before implementing your algorithm, you need to split your data into train/dev/test sets. Which of these do you think is the best choice?
-Train - 9,500,000	, Dev - 250,000	    , Test - 250,000   ---> Correct
+
+- Train - 9,500,000	, Dev - 250,000	    , Test - 250,000   ---> Correct
 
 
 
@@ -96,7 +97,7 @@ This suggests that one good avenue for improving performance is to train a bigge
 - No, because there is insufficient information to tell. ---> Correct
 
 
-8.You ask a few people to label the dataset so as to find out what is human-level performance. You find the following levels of accuracy:
+8. You ask a few people to label the dataset so as to find out what is human-level performance. You find the following levels of accuracy:
 Bird watching expert #1	0.3% error
 Bird watching expert #2	0.5% error
 Normal person #1 (not a bird watching expert)	1.0% error
