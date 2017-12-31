@@ -41,7 +41,7 @@ Note: Having three evaluation metrics makes it harder for you to quickly choose 
 
 If you had the three following models, which one would you choose?
 
-Test - 98% , Accuracy - 9 sec	Runtime	Memory size - 9MB ---> Correct
+Test - 98% , Accuracy - 9 sec	,Runtime	Memory size - 9MB ---> Correct
 
 3. Based on the city’s requests, which of the following would you say is true?
 
