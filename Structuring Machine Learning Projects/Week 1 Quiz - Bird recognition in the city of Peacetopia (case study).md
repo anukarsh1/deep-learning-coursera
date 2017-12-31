@@ -58,7 +58,7 @@ Test - 98% , Accuracy - 9 sec	,Runtime	Memory size - 9MB ---> Correct
 4. Structuring your data
 
 Before implementing your algorithm, you need to split your data into train/dev/test sets. Which of these do you think is the best choice?
-Train - 9,500,000	Dev - 250,000	    Test - 250,000   ---> Correct
+Train - 9,500,000	, Dev - 250,000	    , Test - 250,000   ---> Correct
 
 
 
@@ -68,7 +68,7 @@ You should not add the citizens’ data to the training set, because this will c
 
 - True
 
-- False
+- False ---> Correct
 
 
 6.  One member of the City Council knows a little about machine learning, and thinks you should add the 1,000,000 citizens’ data images to the test set. You object because:
