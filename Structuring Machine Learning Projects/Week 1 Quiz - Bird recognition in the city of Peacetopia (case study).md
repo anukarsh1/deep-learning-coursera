@@ -126,11 +126,9 @@ If your goal is to have “human-level performance” be a proxy (or estimate) f
 
 
 
-10.You find that a team of ornithologists debating and discussing an image gets an even better 0.1% performance, so you define that as “human-level performance.” After working further on your algorithm, you end up with the following:
+10. You find that a team of ornithologists debating and discussing an image gets an even better 0.1% performance, so you define that as “human-level performance.” After working further on your algorithm, you end up with the following:
 
-Human-level performance	0.1%
-Training set error	2.0%
-Dev set error	2.1%
+- Human-level performance	0.1% , Training set error	2.0% , Dev set error	2.1%
 
 Based on the evidence you have, which two of the following four options seem the most promising to try? (Check two options.)
 
