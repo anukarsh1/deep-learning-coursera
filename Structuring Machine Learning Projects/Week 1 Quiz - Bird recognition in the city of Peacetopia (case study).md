@@ -40,14 +40,8 @@ Note: Having three evaluation metrics makes it harder for you to quickly choose 
     “We want the model to fit in 10MB of memory.” 
 
 If you had the three following models, which one would you choose?
-Test  Accuracy	 Runtime	Memory size
-97%	  1 sec	          3MB
-Test  Accuracy	 Runtime	Memory size
-99%	  13 sec	      9MB
-Test  Accuracy	Runtime	Memory size
-97%	  3 sec	          2MB
-Test Accuracy	Runtime	Memory size
-98%	  9 sec	          9MB          ---> Correct
+
+Test - 98% , Accuracy - 9 sec	Runtime	Memory size - 9MB ---> Correct
 
 3. Based on the city’s requests, which of the following would you say is true?
 
