@@ -64,14 +64,7 @@ Test Accuracy	Runtime	Memory size
 4. Structuring your data
 
 Before implementing your algorithm, you need to split your data into train/dev/test sets. Which of these do you think is the best choice?
-Train	      Dev	      Test
-9,500,000	250,000	     250,000   ---> Correct
-Train	      Dev	      Test
-6,000,000	1,000,000	3,000,000
-Train	      Dev	      Test
-6,000,000	3,000,000	1,000,000
-Train	       Dev	      Test
-3,333,334	3,333,333	3,333,333
+Train - 9,500,000	Dev - 250,000	    Test - 250,000   ---> Correct
 
 
 
