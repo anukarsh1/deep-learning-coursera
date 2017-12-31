@@ -116,7 +116,7 @@ If your goal is to have “human-level performance” be a proxy (or estimate) f
 
 9. Which of the following statements do you agree with?
 
-- A learning algorithm’s performance can be better than human-level performance but it can never be better than Bayes error.
+- A learning algorithm’s performance can be better than human-level performance but it can never be better than Bayes error. ---> Correct
 
 - A learning algorithm’s performance can never be better than human-level performance but it can be better than Bayes error.
 
@@ -126,7 +126,7 @@ If your goal is to have “human-level performance” be a proxy (or estimate) f
 
 
 
-10. You find that a team of ornithologists debating and discussing an image gets an even better 0.1% performance, so you define that as “human-level performance.” After working further on your algorithm, you end up with the following:
+10.You find that a team of ornithologists debating and discussing an image gets an even better 0.1% performance, so you define that as “human-level performance.” After working further on your algorithm, you end up with the following:
 
 Human-level performance	0.1%
 Training set error	2.0%
