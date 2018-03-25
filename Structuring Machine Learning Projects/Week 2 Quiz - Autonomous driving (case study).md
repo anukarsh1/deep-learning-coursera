@@ -2,7 +2,7 @@
 
 1. To help you practice strategies for machine learning, in this week we’ll present another scenario and ask how you would act. We think this “simulator” of working in a machine learning project will give a task of what leading a machine learning project could be like!
 
-    ![image from front car camera](https://github.com/AI-Org/Structuring-ML-Projects/blob/master/images/image_from_car_facing_camera.png)
+    ![image from front car camera](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/front_car.png)
 
     You are employed by a startup building self-driving cars. You are in charge of detecting road signs (stop sign, pedestrian crossing sign, construction ahead sign) and traffic signals (red and green lights) in images. The goal is to recognize which of these objects appear in each image. As an example, the above image contains a pedestrian crossing sign and red traffic lights
 
