@@ -44,8 +44,9 @@ Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
 
 Course 3:Structuring Machine Learning Projects
 * [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study).md](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+* [Week 2 Quiz - Autonomous Car(Case Study).md](https://github.com/anukarsh1/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
 ### A short Note:- ###
-I am currently doing the third course of the specialization. I would add the code base and quiz answers for the same as soon as I am finished with it. Please keep in mind that these assignment and quiz solutions are **only for your reference**. Use these  when you get stuck for a long time. The assignments and quizzes are relatively easy if you can grasp the material well.  If you copy/paste the assignments , it would be deemed as cheating, and that is a voilation of [Coursera's Honor Code](https://www.coursera.org/about/terms/honorcode). You wouldn't want to do that!
+I am currently doing the fourth course of the specialization. I would add the code base and quiz answers for the same as soon as I am finished with it. Please keep in mind that these assignment and quiz solutions are **only for your reference**. Use these  when you get stuck for a long time. The assignments and quizzes are relatively easy if you can grasp the material well.  If you copy/paste the assignments , it would be deemed as cheating, and that is a voilation of [Coursera's Honor Code](https://www.coursera.org/about/terms/honorcode). You wouldn't want to do that!
 
 All the best and happy learning. :)
