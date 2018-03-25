@@ -12,8 +12,7 @@
 
     - Spend a few days training a basic model and see what mistakes it makes.
 
-    > As discussed in lecture, applied ML is a highly iterative process. If you train a basic model and carry out error analysis (see what mistakes it makes) it will help point you in more promising directions.
-
+    > As seen in the lecture multiple times , Machine Learning is a highly iterative process. We need to create, code, and experiment on a basic model, and then iterate in order to find out the model that works best for the given problem.  
 2. Your goal is to detect road signs (stop sign, pedestrian crossing sign, construction ahead sign) and traffic signals (red and green lights) in images. The goal is to recognize which of these objects appear in each image. You plan to use a deep neural network with ReLU units in the hidden layers.
 
     For the output layer, a softmax activation would be a good choice for the output layer because this is a multi-task learning problem. True/False?
@@ -21,7 +20,7 @@
     - [ ] True
     - [x] False
 
-    > Softmax would be a good choice if one and only one of the possibilities (stop sign, speed bump, pedestrian crossing, green light and red light) was present in each image.
+    > Softmax  would have been a good choice if one and only one of the possibilities (stop sign, speed bump, pedestrian crossing, green light and red light) was present in each image. Since it is not the case , softmax activation cannot be used.
 
 3. You are carrying out error analysis and counting up what errors the algorithm makes. Which of these datasets do you think you should manually go through and carefully examine, one image at a time?
 
@@ -29,6 +28,7 @@
     - [ ] 500 randomly chosen images
     - [x] 500 images on which the algorithm made a mistake
     - [ ] 10,000 images on which the algorithm made a mistake
+    > It is of prime importance to look at those images on which the algorithm has made a mistake. Since it is not practical to look at every image the algorithm has made a mistake on , we need to randomly choose 500 such images and analyse the reason for such errors. 
 
 4. After working on the data for several weeks, your team ends up with the following data:
 
@@ -41,7 +41,7 @@
     - [ ] True
     - [x] False
 
-    > As seen in the lecture on multi-task learning, you can compute the cost such that it is not influenced by the fact that some entries haven’t been labeled.
+    > In the lecture on multi-task learning, you have seen that you can compute the cost even if  some entries haven’t been labeled. The algorithm won't be influenced by the fact that some entries in the data weren't labeled.
 
 5. The distribution of data you care about contains images from your car’s front-facing camera; which comes from a different distribution than the images you were able to find and download off the internet. How should you split the dataset into train/dev/test sets?
 
@@ -50,7 +50,7 @@
     - [x] Choose the training set to be the 900,000 images from the internet along with 80,000 images from your car’s front-facing camera. The 20,000 remaining images will be split equally in dev and test sets.
     - [ ] Choose the training set to be the 900,000 images from the internet along with 20,000 images from your car’s front-facing camera. The 80,000 remaining images will be split equally in dev and test sets.
 
-    > As seen in lecture, it is important that your dev and test set have the closest possible distribution to “real”-data. It is also important for the training set to contain enough “real”-data to avoid having a data-mismatch problem.
+    > As seen in lecture, it is important to distribute your data in such a manner that your training and dev set have a distribution that resembles the "real life" data. Also , the test set should contain adeqate amount of  "real-life" data you actually care about.
 
 6. Assume you’ve finally chosen the following split between of the data:
 
@@ -68,7 +68,7 @@
 
     - There’s insufficient information to tell if your friend is right or wrong.
 
-    > The algorithm does better on the distribution of data it trained on. But you don’t know if it’s because it trained on that no distribution or if it really is easier. To get a better sense, measure human-level error separately on both distributions.
+    >  To get an idea of this, we will have to measure human-level error separately on both distributions.The algorithm does better on the distribution data it is trained on. But we do not know for certain that it was because it was trained on that data or if it was really easier than the dev/test distribution.
 
 8. You decide to focus on the dev set and check by hand what are the errors due to. Here is a table summarizing your discoveries:
 
@@ -155,4 +155,4 @@
     - [ ] Large bias problem.
     - [ ] Problem with a high Bayes error.
 
-    > In many fields, it has been observed that end-to-end learning works better in practice, but requires a large amount of data.
+    > In many fields, it has been observed that end-to-end learning works better in practice, but requires a large amount of data. Without a larger amout of data , the application of End-To-End Deep Learning is futile.
